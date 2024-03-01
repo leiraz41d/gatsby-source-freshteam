@@ -1,0 +1,2 @@
+# gatsby-source-freshteam
+npm
